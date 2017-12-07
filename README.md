@@ -1,2 +1,2 @@
 # git_test2
-# Empty README file
+This is the first (second) git project!
